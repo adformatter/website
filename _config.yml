@@ -1,0 +1,37 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: adFormatter
+email: 
+description: to bring transperancy in digital advertising
+url: # the base hostname & protocol for your site
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Gopi
+  avatar: logo.jpg
