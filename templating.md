@@ -154,7 +154,7 @@ data:{
 }
 {% endhighlight %}
 </div>
-<img src="/img/single-ad.png" alt="" class="templating_demo af_demo_image" id="af_demo_image_single">
+<img src="/img/single-ad.PNG" alt="" class="templating_demo af_demo_image" id="af_demo_image_single">
 <div class="templating_demo af_demo_text" id="af_demo_text_single">
 	<div class="af-ad-container" id="af_demo_single" style="width:300px;height:120px;">
 		<div class="af-indicator">AF</div>
@@ -234,7 +234,7 @@ data:{
 }
 {% endhighlight %}
 </div>
-<img src="/img/multi-ad.png" alt="" class="templating_demo af_demo_image" id="af_demo_image_multiple">
+<img src="/img/multi-ad.PNG" alt="" class="templating_demo af_demo_image" id="af_demo_image_multiple">
 <div class="templating_demo af_demo_text" id="af_demo_text_multiple">
 	<div class="af-ad-container" id="af_demo_multiple" style="width:430px;height:320px;">
 		<div class="af-indicator">AF</div>
@@ -326,7 +326,7 @@ data:{
 }
 {% endhighlight %}
 </div>
-<img src="/img/sub-ad.png" alt="" class="templating_demo af_demo_image" id="af_demo_image_subad">
+<img src="/img/sub-ad.PNG" alt="" class="templating_demo af_demo_image" id="af_demo_image_subad">
 <div class="templating_demo af_demo_text" id="af_demo_text_subad">
 	<div class="af-ad-container" id="af_demo_subad" style="width:430px;height:320px;">
 		<div class="af-indicator">AF</div>
